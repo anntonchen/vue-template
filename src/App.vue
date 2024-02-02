@@ -11,7 +11,7 @@ import { RouterView } from 'vue-router'
     </div>
 
     <p className='description'>
-      This is a template for creating a React site build it with Vite and deploying it on Fleek.
+      This is a template for creating a Vue.js site build it with Vite and deploying it on Fleek.
     </p>
   </header>
 
